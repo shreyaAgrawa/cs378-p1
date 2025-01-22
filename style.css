@@ -50,7 +50,7 @@
 .decorative-font {
     font-family: "Dancing Script", serif;
     font-optical-sizing: auto;
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 200;
     padding: 5px;
     font-style:italic;
@@ -61,7 +61,7 @@
 .second-header {
     font-family: "Lora", serif;
     font-optical-sizing: auto;
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 400;
     padding: 5px;
     margin:0 auto;
